@@ -12,9 +12,6 @@ newscrawling:.
 \---newscrawling
     |   items.py
     |   middlewares.py
-    |   newsbot.csv
-    |   newscrawling.log
-    |   newsUrl.csv
     |   pipelines.py
     |   settings.py
     |   __init__.py
