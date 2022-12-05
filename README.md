@@ -1,6 +1,10 @@
 # NEWS_TEAM_8
 News Recommender System
 
+## Technologies
+![python3](https://img.shields.io/badge/python-3.7-blue)
+![Crawling](https://img.shields.io/badge/Crawling-SCRAPY-important)
+
 ## Structure
 
 ```bash
